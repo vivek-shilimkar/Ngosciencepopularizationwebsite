@@ -1,7 +1,7 @@
 
-  # NGO Science Popularization Website
+  # मराठी विज्ञान परिषद, पुणे विभाग
 
-  This is a code bundle for NGO Science Popularization Website. The original project is available at https://www.figma.com/design/ObmaFepfkOUsMPp9fOrIbT/NGO-Science-Popularization-Website.
+  This is a code bundle for मराठी विज्ञान परिषद, पुणे विभाग. The original project is available at https://www.figma.com/design/ObmaFepfkOUsMPp9fOrIbT/NGO-Science-Popularization-Website.
 
   ## Running the code
 
